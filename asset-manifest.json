@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tiwitWeb/static/css/main.c6eae2d8.chunk.css",
-    "main.js": "/tiwitWeb/static/js/main.eb3e3224.chunk.js",
-    "main.js.map": "/tiwitWeb/static/js/main.eb3e3224.chunk.js.map",
+    "main.js": "/tiwitWeb/static/js/main.244cfdca.chunk.js",
+    "main.js.map": "/tiwitWeb/static/js/main.244cfdca.chunk.js.map",
     "runtime-main.js": "/tiwitWeb/static/js/runtime-main.c8bb3d79.js",
     "runtime-main.js.map": "/tiwitWeb/static/js/runtime-main.c8bb3d79.js.map",
     "static/css/2.dab86632.chunk.css": "/tiwitWeb/static/css/2.dab86632.chunk.css",
@@ -60,6 +60,6 @@
     "static/css/2.dab86632.chunk.css",
     "static/js/2.1609ee9a.chunk.js",
     "static/css/main.c6eae2d8.chunk.css",
-    "static/js/main.eb3e3224.chunk.js"
+    "static/js/main.244cfdca.chunk.js"
   ]
 }
